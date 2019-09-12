@@ -49,7 +49,7 @@ def main(stdscr):
         elif input == ord('e'):
             stdscr.clear()
             for i in range (1, args.xDim+1):
-                stdscr.addstr(0,2*i+1,'{} '.format(i))
+                stdscr.addstr(0,2*i,'{} '.format(i))
             for i in range (1, args.yDim+1):
                 stdscr.addstr(i,0,'{}:'.format(i))
 

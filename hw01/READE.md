@@ -7,3 +7,10 @@ The Etch A Sketch program is running:
 Move with the wasd keys
 Quit the program with 'q'
 Reset all the X's with the 'e' key
+
+## Prof. Yoder's comments
+
+Everything looks good.  Nice etch-a-sketch.
+You'll get more git practice as time goes on.
+
+Grade:  10/10

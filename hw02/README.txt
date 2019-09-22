@@ -18,3 +18,12 @@ and a Quit Game button wired to P8_18. It should be run with "sudo
 ./EtchASketchButton.py xDim yDim" where xDim is how many spaces in the x 
 direction are desired, and yDim is the same in the Y direction. Neither 
 of those may exceed 99 units.
+
+
+## Prof. Yoder's comments
+
+Please name your file README.md
+'scope measurements are missing...
+Let me know when you have them.
+
+Grade:  5/10

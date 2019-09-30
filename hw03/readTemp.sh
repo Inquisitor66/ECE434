@@ -1,8 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
 while :
 do
-	i2cget -y 1 0x48
-	i2cget -y 1 0x49
+	echo $(($(i2cget -y 1 0x48) *9/5+32))
+	echo $(($(i2cget -y 1 0x49)*9/5+32))
 	sleep 1s
 done

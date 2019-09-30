@@ -1,5 +1,9 @@
+config-pin P8_41 gpio
+config-pin P8_42 gpio
+config-pin P8_16 gpio
+config-pin P8_18 gpio
 config-pin P9_17 i2c
-congig-pin p9_18 i2c
+config-pin P9_18 i2c
 config-pin P8_11 qep
 config-pin P8_12 qep
 config-pin P8_33 qep

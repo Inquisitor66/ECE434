@@ -68,6 +68,12 @@ at which point pressing either of the buttons will turn on either the USR1 or US
 
 ## Prof. Yoder's comments
 
-README missig.  LCD was demoed.
+README missing.  LCD was demoed.
 
 Grade:  2/10
+
+## Prof. Yoder's new comments
+Much more complete.  Photo's of LCD are missing.
+
+Late:  -3
+Grade:  5/10

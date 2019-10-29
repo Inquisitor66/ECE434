@@ -17,3 +17,10 @@ The next part of the homework was to run a stressful program in a RT kernel and 
 
 Finally, the stressful program run during these tests was:  
 > stress -c 1 -i 1 -m 1  
+
+## Prof. Yoder's comments
+
+Looks good.  I requested two plots, one under load, one not.
+
+Late: -2
+Grade:  6/10

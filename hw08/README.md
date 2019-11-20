@@ -16,3 +16,9 @@ Next, pwm4 was set as the target. It runs a PWM output on pins P9_31, P9_30, P9_
 Finally, input1 was set as the target and a function generator was hooked up and a square wave was inserted into P9_25 and set as an input using __R31. In "5.9readinganinput.png" it can be seen that there is about a 35 ns delay between reading from __R31 and being able to write to __R30.
 
 I could not get sine1.c to go through a low pass filter and output a good looking waveform, so I have not completed this section.
+
+## Prof. Yoder's comments
+
+Your plot look mostly good, tough the section 2.6 plot has too much decay in it.
+
+Grade:  10/10

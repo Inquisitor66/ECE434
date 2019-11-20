@@ -63,3 +63,10 @@ Part 2 rmmod ebbchar.c terminal outputs:
 >[  +7.185136] EBBChar: Received 15 characters from the user  
 >[  +1.436145] EBBChar: Sent 15 characters to the user  
 >[  +0.000545] EBBChar: Device successfully closed
+
+## Prof. Yoder's comments
+
+Got it.
+
+Late:  -2
+Grade:  8/10

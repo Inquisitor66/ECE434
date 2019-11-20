@@ -5,3 +5,10 @@ The purpose of this assignment was to write values from some input to a cloud ba
  Both of these have been shared with you Dr. Yoder
 
  PS: When doing git maintenance after the presentations I realized I never committed this or shared the pages with you, I'm sorry about that Dr. Yoder
+
+## Prof. Yoder's comments
+
+Looks good.
+
+Late: -1
+Grade:  9/10
